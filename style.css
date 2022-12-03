@@ -1,0 +1,57 @@
+nav{
+text-align: center;
+  background-color: lightblue; 
+}
+.title{
+  text-align: center;
+}
+
+.store-hours{
+  text-align: center;
+}
+
+.index-body{
+  background-image: url("everbowl.jpeg");
+}
+
+.contactBody {
+background-color: lightgrey;
+}
+
+.conactForm {
+font-family: 'Montserrat', sans-serif;
+width: 60%;
+margin: auto;
+}
+
+h4 {
+text-align: center;
+font-size: 20px;  
+}
+
+.inputBox {
+border: 3px pink solid;
+margin: 10px;  
+}
+
+.space {
+height: 50px;
+  }
+
+.menubody {
+background-color: lightpink;
+  }
+
+
+.contactbody{
+  background-color: lightgray
+}
+
+.card {
+	background-color: skyblue;
+	border-radius: 20px;
+}
+
+.cardpic {
+  width: 200px;
+}
